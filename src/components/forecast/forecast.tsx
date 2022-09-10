@@ -57,4 +57,5 @@ export function ForeCast(props: { data: { list: any[]; }; })  {
       </Accordion>
     </>
   );
+  
 };
